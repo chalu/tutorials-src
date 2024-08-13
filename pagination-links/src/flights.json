@@ -1,0 +1,772 @@
+[
+    {
+        "id": "66a788e39c4144508b139cccfc38cb72",
+        "from": "MIA",
+        "to": "YYC",
+        "departure": "2024-08-24 17:49:00",
+        "price": 894.42
+    },
+    {
+        "id": "80e07825ada6488facb55c050ec3d83a",
+        "from": "LAX",
+        "to": "MIA",
+        "departure": "2025-04-30 17:49:00",
+        "price": 421.49
+    },
+    {
+        "id": "954cfaffa99b490ea4a51d9cc23f503a",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2025-06-02 18:15:00",
+        "price": 1137.15
+    },
+    {
+        "id": "8f8dac446ceb4b169090f4e684cac380",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2025-04-07 18:15:00",
+        "price": 770.09
+    },
+    {
+        "id": "5f0a083f42af45cea60598145eae5cb9",
+        "from": "ATL",
+        "to": "JFK",
+        "departure": "2025-03-27 17:49:00",
+        "price": 999.84
+    },
+    {
+        "id": "3d9f6fd7ba61425ebff0e6b15d4a47a6",
+        "from": "YYC",
+        "to": "JFK",
+        "departure": "2025-05-15 17:49:00",
+        "price": 175.5
+    },
+    {
+        "id": "1e070e078045408eabea69fe71baee8e",
+        "from": "SFO",
+        "to": "LOS",
+        "departure": "2024-10-24 17:49:00",
+        "price": 1372.52
+    },
+    {
+        "id": "329381bcb09640ee842d80b5302d0be6",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2025-03-28 18:15:00",
+        "price": 1062.08
+    },
+    {
+        "id": "1ed93cfc5d4c4d439a5366608e467a8d",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2024-09-11 18:15:00",
+        "price": 272.51
+    },
+    {
+        "id": "b53a25ce4ca740ba8344d8705c65eeba",
+        "from": "MIA",
+        "to": "YYC",
+        "departure": "2024-11-01 17:49:00",
+        "price": 1183.67
+    },
+    {
+        "id": "b074df4cd78447b9b590c37907f299bc",
+        "from": "LOS",
+        "to": "ORD",
+        "departure": "2025-06-10 17:49:00",
+        "price": 614.03
+    },
+    {
+        "id": "cd748769985e4c1d81fd6be1ef3bddfb",
+        "from": "JFK",
+        "to": "ATL",
+        "departure": "2025-02-04 17:49:00",
+        "price": 1208.02
+    },
+    {
+        "id": "f8383f8794f14fe68cb83fa3324cc739",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2025-06-22 18:15:00",
+        "price": 1457.06
+    },
+    {
+        "id": "55de06f4bd574a09908f293d00e12f56",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2025-03-30 18:15:00",
+        "price": 419.34
+    },
+    {
+        "id": "4b80d59d20dc45b5a993278097ae4eac",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2025-05-23 18:15:00",
+        "price": 293.75
+    },
+    {
+        "id": "337075c7665340c4bb6ef04bda72af33",
+        "from": "DFW",
+        "to": "MIA",
+        "departure": "2025-06-20 17:49:00",
+        "price": 1031.86
+    },
+    {
+        "id": "1eefdc9d458a4beca864a619697c04df",
+        "from": "ORD",
+        "to": "NYC",
+        "departure": "2025-06-13 17:49:00",
+        "price": 161.54
+    },
+    {
+        "id": "9056971b599f4d728979747562c9efa8",
+        "from": "NYC",
+        "to": "LOS",
+        "departure": "2024-08-20 17:49:00",
+        "price": 1136.07
+    },
+    {
+        "id": "ea7a547740534390baf57b49ed961254",
+        "from": "ORD",
+        "to": "ORD",
+        "departure": "2025-06-26 17:49:00",
+        "price": 931.99
+    },
+    {
+        "id": "b78cd62bc7c24fe18f661c16612b04a0",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2024-12-14 18:15:00",
+        "price": 1046.77
+    },
+    {
+        "id": "0ca87e1455324914b18d37a51a688c7b",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2024-09-17 18:15:00",
+        "price": 1363.73
+    },
+    {
+        "id": "31890023b5644d1e8586283a3bec37d2",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2025-04-03 18:15:00",
+        "price": 888.86
+    },
+    {
+        "id": "ce7cd4b5c77c4dc9a3b6bd789a2824b9",
+        "from": "DFW",
+        "to": "NYC",
+        "departure": "2024-10-17 17:49:00",
+        "price": 1079.92
+    },
+    {
+        "id": "c17d872088334f01894401039b82b8ad",
+        "from": "MIA",
+        "to": "JFK",
+        "departure": "2025-07-16 17:49:00",
+        "price": 339.92
+    },
+    {
+        "id": "d69acc9838b44a118128113294a10bcc",
+        "from": "ORD",
+        "to": "LOS",
+        "departure": "2025-04-29 17:49:00",
+        "price": 529.12
+    },
+    {
+        "id": "7ddd68a74f824304b98d8de227b75e24",
+        "from": "SFO",
+        "to": "YYC",
+        "departure": "2025-07-30 17:49:00",
+        "price": 344.08
+    },
+    {
+        "id": "10793376b6fc440f916b827b4ce1d8d5",
+        "from": "NYC",
+        "to": "LAX",
+        "departure": "2024-12-31 17:49:00",
+        "price": 141.38
+    },
+    {
+        "id": "8740972081da41f0b868fbfee721bf6e",
+        "from": "DFW",
+        "to": "SFO",
+        "departure": "2025-03-02 17:49:00",
+        "price": 121.41
+    },
+    {
+        "id": "043d74c85480494ba356d0c6a96f9db8",
+        "from": "JFK",
+        "to": "YYC",
+        "departure": "2025-03-27 17:49:00",
+        "price": 421.63
+    },
+    {
+        "id": "14d034c8329e4dcd9cf97df7bdc10a13",
+        "from": "ORD",
+        "to": "SFO",
+        "departure": "2024-09-01 17:49:00",
+        "price": 1146.19
+    },
+    {
+        "id": "8d12ac48719b4a768330169950afbe20",
+        "from": "DFW",
+        "to": "ORD",
+        "departure": "2025-03-23 17:49:00",
+        "price": 668.86
+    },
+    {
+        "id": "8841fb6cf743497d94c23f4e091db218",
+        "from": "ATL",
+        "to": "LOS",
+        "departure": "2025-01-17 17:49:00",
+        "price": 386.53
+    },
+    {
+        "id": "b53fa261609945c3971e5fec1afa7172",
+        "from": "LAX",
+        "to": "NYC",
+        "departure": "2025-08-02 17:49:00",
+        "price": 880.76
+    },
+    {
+        "id": "7713c23cdf5b4a49a965132846e0b006",
+        "from": "YYC",
+        "to": "LOS",
+        "departure": "2025-02-03 17:49:00",
+        "price": 862.7
+    },
+    {
+        "id": "665b6cc2654e4344ac667c5e6ff40a27",
+        "from": "LAX",
+        "to": "SFO",
+        "departure": "2025-02-01 17:49:00",
+        "price": 999.91
+    },
+    {
+        "id": "ba3cf1d3a4034e4785417ece3856d5ad",
+        "from": "LOS",
+        "to": "MIA",
+        "departure": "2025-01-28 17:49:00",
+        "price": 461.58
+    },
+    {
+        "id": "9531747c4ad34f40b5c79dbbaa3c753b",
+        "from": "MIA",
+        "to": "YYC",
+        "departure": "2025-06-13 17:49:00",
+        "price": 1468.96
+    },
+    {
+        "id": "c50ca4917e40460c93470b99d6b189bf",
+        "from": "LAX",
+        "to": "DFW",
+        "departure": "2025-03-03 17:49:00",
+        "price": 1453.94
+    },
+    {
+        "id": "ba9682bce8104834b5268abb95257a8e",
+        "from": "DFW",
+        "to": "ATL",
+        "departure": "2025-07-12 17:49:00",
+        "price": 1293.7
+    },
+    {
+        "id": "f1816d0ef8774b22a3c5028a97bcf35a",
+        "from": "SFO",
+        "to": "ORD",
+        "departure": "2024-11-30 17:49:00",
+        "price": 1170.51
+    },
+    {
+        "id": "2dce38318abb40159318c9fb192393a6",
+        "from": "NYC",
+        "to": "ORD",
+        "departure": "2025-07-11 17:49:00",
+        "price": 1118.63
+    },
+    {
+        "id": "35e8ebe7fd6346e6b96ba4190da58063",
+        "from": "MIA",
+        "to": "JFK",
+        "departure": "2024-12-23 17:49:00",
+        "price": 500.91
+    },
+    {
+        "id": "3e036c1f156d4789be01f87ceb677606",
+        "from": "YYC",
+        "to": "LAX",
+        "departure": "2024-12-20 17:49:00",
+        "price": 383.62
+    },
+    {
+        "id": "95bc3bfcd3a046afb825bcead96fed60",
+        "from": "LOS",
+        "to": "YYC",
+        "departure": "2025-03-08 17:49:00",
+        "price": 281.36
+    },
+    {
+        "id": "bfee39cc83c741beaf269ee6886623e1",
+        "from": "NYC",
+        "to": "YYC",
+        "departure": "2024-08-30 17:49:00",
+        "price": 958.59
+    },
+    {
+        "id": "ca21ee2afd2e447cb9dac2a67322fad5",
+        "from": "ATL",
+        "to": "LAX",
+        "departure": "2025-05-13 17:49:00",
+        "price": 1368.85
+    },
+    {
+        "id": "637dab1fd5964cf0bb0b1d35542c479f",
+        "from": "MIA",
+        "to": "JFK",
+        "departure": "2024-09-19 17:49:00",
+        "price": 1152.63
+    },
+    {
+        "id": "1cdbc511c8da49eab6161da25c5e843d",
+        "from": "SFO",
+        "to": "SFO",
+        "departure": "2024-12-06 17:49:00",
+        "price": 1192.44
+    },
+    {
+        "id": "60b0b20c4fd74e77a2d4e17fdcee16a6",
+        "from": "MIA",
+        "to": "ORD",
+        "departure": "2024-08-26 17:49:00",
+        "price": 157.89
+    },
+    {
+        "id": "f0b67dbd59104a8590445159f94ce864",
+        "from": "MIA",
+        "to": "ORD",
+        "departure": "2024-08-12 17:49:00",
+        "price": 293.07
+    },
+    {
+        "id": "9095091c876e421f872ac1f3085a26c4",
+        "from": "NYC",
+        "to": "ATL",
+        "departure": "2024-12-02 17:49:00",
+        "price": 589.7
+    },
+    {
+        "id": "48b890a915054cb7a3496938e44ee2ae",
+        "from": "SFO",
+        "to": "JFK",
+        "departure": "2025-04-02 17:49:00",
+        "price": 1206.22
+    },
+    {
+        "id": "44b3de3b6acd411082948c66ad8611ed",
+        "from": "SFO",
+        "to": "LAX",
+        "departure": "2024-09-28 17:49:00",
+        "price": 395.97
+    },
+    {
+        "id": "a61ddafc329f49239324e28f7698e805",
+        "from": "JFK",
+        "to": "LAX",
+        "departure": "2025-04-13 17:49:00",
+        "price": 1152.34
+    },
+    {
+        "id": "96946d0d6b7644e696c5ed97693d017c",
+        "from": "MIA",
+        "to": "JFK",
+        "departure": "2024-09-01 17:49:00",
+        "price": 387.46
+    },
+    {
+        "id": "66abfb968b5947cd8fc297dc7cfca9c3",
+        "from": "SFO",
+        "to": "MIA",
+        "departure": "2025-06-20 17:49:00",
+        "price": 685.71
+    },
+    {
+        "id": "226c99f107664177ba55443b3e2a8978",
+        "from": "LOS",
+        "to": "DFW",
+        "departure": "2025-06-06 17:49:00",
+        "price": 1058.95
+    },
+    {
+        "id": "ce79d03fef1b488f8069f1e48d339c16",
+        "from": "DFW",
+        "to": "ORD",
+        "departure": "2024-09-04 17:49:00",
+        "price": 777.22
+    },
+    {
+        "id": "313b8dfec8664f53a4ecea2b3b5de0aa",
+        "from": "MIA",
+        "to": "YYC",
+        "departure": "2024-08-16 17:49:00",
+        "price": 833.58
+    },
+    {
+        "id": "81ffbb790d68494e80765efa1e7f4be7",
+        "from": "ORD",
+        "to": "ATL",
+        "departure": "2024-09-23 17:49:00",
+        "price": 1247.54
+    },
+    {
+        "id": "6ea2cda7c05542b5847c9c94961dc712",
+        "from": "MIA",
+        "to": "JFK",
+        "departure": "2025-06-07 17:49:00",
+        "price": 266.37
+    },
+    {
+        "id": "3e08d941da6c46bb8d0c33440e93261e",
+        "from": "ATL",
+        "to": "ATL",
+        "departure": "2025-05-05 17:49:00",
+        "price": 836.02
+    },
+    {
+        "id": "1e6827be3d664216b5750b8f119e1aff",
+        "from": "YYC",
+        "to": "ATL",
+        "departure": "2025-01-07 17:49:00",
+        "price": 642.54
+    },
+    {
+        "id": "e4316718f72342abb6c2a02a738ac7bd",
+        "from": "ORD",
+        "to": "NYC",
+        "departure": "2024-11-21 17:49:00",
+        "price": 1332.62
+    },
+    {
+        "id": "18dc06432a234ccb819906814848f8c6",
+        "from": "SFO",
+        "to": "JFK",
+        "departure": "2024-11-29 17:49:00",
+        "price": 500.72
+    },
+    {
+        "id": "aaf601b3732248eca8994840564cd9f1",
+        "from": "ATL",
+        "to": "LAX",
+        "departure": "2025-08-04 17:49:00",
+        "price": 337.63
+    },
+    {
+        "id": "43b0cdd2037e4bd29e18c556bac87d1b",
+        "from": "LAX",
+        "to": "SFO",
+        "departure": "2025-08-04 17:49:00",
+        "price": 374.29
+    },
+    {
+        "id": "6772a14409704c7b86557870fd445bb4",
+        "from": "LAX",
+        "to": "ORD",
+        "departure": "2024-09-19 17:49:00",
+        "price": 174.61
+    },
+    {
+        "id": "4fca2da29c134ea890125a13a5624453",
+        "from": "DFW",
+        "to": "ATL",
+        "departure": "2025-03-21 17:49:00",
+        "price": 1498.43
+    },
+    {
+        "id": "1009677bc9974582b63264ca632bdfa7",
+        "from": "SFO",
+        "to": "JFK",
+        "departure": "2025-08-04 17:49:00",
+        "price": 1382.89
+    },
+    {
+        "id": "c486a9839cb94eab97db7b0adc4d5bec",
+        "from": "ORD",
+        "to": "YYC",
+        "departure": "2025-06-25 17:49:00",
+        "price": 601.89
+    },
+    {
+        "id": "5239eb2b00b741bb89f32fee19ba0d8a",
+        "from": "ATL",
+        "to": "JFK",
+        "departure": "2025-04-17 17:49:00",
+        "price": 111.5
+    },
+    {
+        "id": "d4fc407468b24aa0b839a5e87d5338d1",
+        "from": "ATL",
+        "to": "MIA",
+        "departure": "2025-02-18 17:49:00",
+        "price": 1277.98
+    },
+    {
+        "id": "d1271e7e17ad4a2db66df666562e73bc",
+        "from": "JFK",
+        "to": "LOS",
+        "departure": "2024-11-11 17:49:00",
+        "price": 769.01
+    },
+    {
+        "id": "00ab761a32524d76b9eba87db9256834",
+        "from": "MIA",
+        "to": "JFK",
+        "departure": "2025-01-07 17:49:00",
+        "price": 459.71
+    },
+    {
+        "id": "cddd76c7a048406192ade5598cff9457",
+        "from": "MIA",
+        "to": "YYC",
+        "departure": "2024-12-31 17:49:00",
+        "price": 830.47
+    },
+    {
+        "id": "df8927747244431a818ba122a730c00e",
+        "from": "YYC",
+        "to": "DFW",
+        "departure": "2025-02-19 17:49:00",
+        "price": 342.43
+    },
+    {
+        "id": "01c4f4e0df4d432f8963624595130558",
+        "from": "ATL",
+        "to": "SFO",
+        "departure": "2024-11-06 17:49:00",
+        "price": 782.05
+    },
+    {
+        "id": "07dea0da3e6544a4a3557b80a73c34df",
+        "from": "YYC",
+        "to": "DFW",
+        "departure": "2025-03-23 17:49:00",
+        "price": 498.19
+    },
+    {
+        "id": "876040d48d6248abaafa54af1bc00b10",
+        "from": "YYC",
+        "to": "ATL",
+        "departure": "2024-12-01 17:49:00",
+        "price": 1377.28
+    },
+    {
+        "id": "d3d489570653462c877920fa57985952",
+        "from": "MIA",
+        "to": "LOS",
+        "departure": "2024-11-17 17:49:00",
+        "price": 485.52
+    },
+    {
+        "id": "3f5adaaca37f4973a2cf15bce186e71b",
+        "from": "ATL",
+        "to": "ATL",
+        "departure": "2025-07-19 17:49:00",
+        "price": 508.84
+    },
+    {
+        "id": "09a49b7df74e437f8ab55e5beb6f5526",
+        "from": "ATL",
+        "to": "LOS",
+        "departure": "2025-07-05 17:49:00",
+        "price": 224.17
+    },
+    {
+        "id": "b4b1086c3ab6488b8cc0ce982beef94e",
+        "from": "YYC",
+        "to": "LAX",
+        "departure": "2025-03-20 17:49:00",
+        "price": 545.94
+    },
+    {
+        "id": "dfbfcad4a7cf4b17aa7da68dc25feb25",
+        "from": "LOS",
+        "to": "DFW",
+        "departure": "2025-02-06 17:49:00",
+        "price": 974.45
+    },
+    {
+        "id": "fdeeca3c9b8d48af93c49e35b0035053",
+        "from": "ORD",
+        "to": "LAX",
+        "departure": "2024-11-19 17:49:00",
+        "price": 680.3
+    },
+    {
+        "id": "22faef59acb542b1ab13706b56620b3e",
+        "from": "DFW",
+        "to": "NYC",
+        "departure": "2024-11-27 17:49:00",
+        "price": 1258.26
+    },
+    {
+        "id": "3fedee7c0a1d470c88cc69297365dea7",
+        "from": "ATL",
+        "to": "ATL",
+        "departure": "2025-07-08 17:49:00",
+        "price": 1393.74
+    },
+    {
+        "id": "7de6a41455b24cc998eec690289a8929",
+        "from": "LAX",
+        "to": "YYC",
+        "departure": "2025-06-28 17:49:00",
+        "price": 713.21
+    },
+    {
+        "id": "e52685f1cea148daa51e24be74fad846",
+        "from": "YYC",
+        "to": "JFK",
+        "departure": "2025-03-12 17:49:00",
+        "price": 990.79
+    },
+    {
+        "id": "c9edb8bc422040978a7b9b08ed76384f",
+        "from": "DFW",
+        "to": "JFK",
+        "departure": "2025-01-14 17:49:00",
+        "price": 491.94
+    },
+    {
+        "id": "e216d15189314300b2b023f36d5fca05",
+        "from": "ATL",
+        "to": "LOS",
+        "departure": "2025-02-07 17:49:00",
+        "price": 585.23
+    },
+    {
+        "id": "c1dd6ad78ed04ba6bc6a47189cae97a7",
+        "from": "JFK",
+        "to": "ORD",
+        "departure": "2024-09-22 17:49:00",
+        "price": 1182.48
+    },
+    {
+        "id": "14236a20f3a845d08552e869140b60a7",
+        "from": "MIA",
+        "to": "DFW",
+        "departure": "2024-10-29 17:49:00",
+        "price": 1460.82
+    },
+    {
+        "id": "84a3991823714d5793c7e9c711cb268d",
+        "from": "SFO",
+        "to": "LAX",
+        "departure": "2025-01-13 17:49:00",
+        "price": 392.57
+    },
+    {
+        "id": "e06c622e904d4460974852b59dbc79f8",
+        "from": "SFO",
+        "to": "JFK",
+        "departure": "2025-01-20 17:49:00",
+        "price": 604.63
+    },
+    {
+        "id": "15f8b4b9b2f3423b9682e53729433403",
+        "from": "DFW",
+        "to": "ORD",
+        "departure": "2025-04-26 17:49:00",
+        "price": 707.89
+    },
+    {
+        "id": "7bb57d2c409541079b7d59f5e4a820f4",
+        "from": "JFK",
+        "to": "LAX",
+        "departure": "2025-01-22 17:49:00",
+        "price": 1276.67
+    },
+    {
+        "id": "b7580020c6604d93895f96ecfb931037",
+        "from": "LAX",
+        "to": "SFO",
+        "departure": "2025-02-05 17:49:00",
+        "price": 1483.22
+    },
+    {
+        "id": "0eff114177b5463694fe472fb63885c4",
+        "from": "LOS",
+        "to": "SFO",
+        "departure": "2025-03-21 17:49:00",
+        "price": 415.44
+    },
+    {
+        "id": "665dbccea0364c2196163a5f3593b653",
+        "from": "ORD",
+        "to": "SFO",
+        "departure": "2024-11-06 17:49:00",
+        "price": 1037.27
+    },
+    {
+        "id": "053ab88c7a3341e9b31f9ecf086d58c9",
+        "from": "DFW",
+        "to": "ORD",
+        "departure": "2025-01-22 17:49:00",
+        "price": 943.83
+    },
+    {
+        "id": "66ee935a0afd4602904c8bc63508e81b",
+        "from": "ORD",
+        "to": "SFO",
+        "departure": "2024-11-10 17:49:00",
+        "price": 1017.2
+    },
+    {
+        "id": "c6d4704d6f964be08a07a22d720dec9c",
+        "from": "JFK",
+        "to": "ATL",
+        "departure": "2024-11-12 17:49:00",
+        "price": 1388.89
+    },
+    {
+        "id": "a09ba603d90a457b92a0b779c8366a2b",
+        "from": "ATL",
+        "to": "SFO",
+        "departure": "2024-12-19 17:49:00",
+        "price": 1002.13
+    },
+    {
+        "id": "8acc9b0d09494fe08ef80107c04bcc91",
+        "from": "SFO",
+        "to": "LOS",
+        "departure": "2024-11-30 17:49:00",
+        "price": 775.51
+    },
+    {
+        "id": "2dab7423fa714be9b317381f3ab5cedd",
+        "from": "LAX",
+        "to": "YYC",
+        "departure": "2025-08-04 17:49:00",
+        "price": 925.87
+    },
+    {
+        "id": "f8475f95caff42d8a5ef75f528fa7973",
+        "from": "MIA",
+        "to": "LAX",
+        "departure": "2025-05-12 17:49:00",
+        "price": 659.46
+    },
+    {
+        "id": "ba8c7682f22c44c7a46ae8b7025100e4",
+        "from": "LAX",
+        "to": "DFW",
+        "departure": "2025-05-09 17:49:00",
+        "price": 585.8
+    },
+    {
+        "id": "7087d96a286749b0bef5b61f63bf4cae",
+        "from": "LAX",
+        "to": "YYC",
+        "departure": "2025-08-05 17:49:00",
+        "price": 730.51
+    }
+]
