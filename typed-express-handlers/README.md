@@ -4,7 +4,7 @@ I'd like to show you a cool but effective and developer friendly way to properly
 
 > See it live using [github.dev](https://github.dev/chalu/tutorials-src/blob/main/typed-express-handlers/src/flights.controller.ts)
 
-> Read the [full tutorial](https://chalu.hashnode.dev/a-modern-developer-friendly-approach-to-typed-express-api-handlers-with-typescript) for more details.
+> Read the [full tutorial](https://chalu.hashnode.dev/a-better-developer-friendly-approach-to-typed-api-handlers-using-express-typescript) for more details.
 
 ![](./static/images/custom-handler-type-refactored.png)
 
