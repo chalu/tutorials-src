@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "predev": "pnpm install",
-    "dev": "tsc --noEmit"
+    "dev": "pnpm install && tsc --noEmit"
   },
   "license": "MIT",
   "devDependencies": {
