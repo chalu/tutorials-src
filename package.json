@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pagination-links": "cd pagination-links && pnpm dev"
+    "pagination-links": "cd pagination-links && pnpm dev",
+    "typed-express-handlers": "cd typed-express-handlers && pnpm dev"
   },
   "keywords": [],
   "author": "Charles Opute Odili <chaluwa@gmail.com>",

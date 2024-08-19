@@ -43,6 +43,7 @@ export type Flight = {
 export type SearchResult = {
     flights: Flight[];
 	totalFound: number;
+    hasMore: boolean;
 };
 
 export type FlightSearchResponse = {
